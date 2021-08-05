@@ -2,7 +2,7 @@
 
 👀 I’m interested in automatic tests
 
-🌱 I’m currently learning Selenium Grid, Java REST-assured
+🌱 I’m currently learning Jenkins, Java REST-assured, C#
 
 💞️ I want to cooperate with companies implementing interesting projects
 
