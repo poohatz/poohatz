@@ -2,7 +2,7 @@
 
 👀 I’m interested in automatic tests
 
-🌱 I’m currently learning Jenkins, Java REST-assured, C#
+🌱 I’m currently learning Python
 
 💞️ I want to cooperate with companies implementing interesting projects
 
