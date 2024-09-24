@@ -2,7 +2,7 @@
 
 👀 I’m interested in automatic tests
 
-🌱 I’m currently learning Python, Playwright
+🌱 I’m currently learning Java RestAssured (API tests) and Playwright (FE tests)
 
 💞️ I want to cooperate with companies implementing interesting projects
 
